@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Olá, eu sou o Pablo Juan Tadini Soto</h1>
-<h3 align="center">Desenvolvedor de Software | Focado em IA, automação e sistemas de alta performance 🚀</h3>
+<h3 align="center">Desenvolvedor de Software | Focado em Escalabilidade, automação e sistemas de alta performance 🚀</h3>
 
 ---
 
