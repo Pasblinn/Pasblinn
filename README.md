@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:3178C6,100:0EA5E9&section=header" width="100%" alt="" />
+
 <h1 align="center">Pablo Tadini Soto</h1>
 
 <p align="center">
@@ -6,18 +8,23 @@
 
 <p align="center">
   I build the systems small companies run their entire operation on —<br>
-  multi-tenant CRMs, desktop ERPs, and AI agents that talk to real customers.
+  multi-tenant CRMs, desktop ERPs, and AI agents that talk to real customers.<br>
+  <strong>Four of them are in production with paying clients right now.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablotadinisoto/">LinkedIn</a> ·
-  <a href="mailto:pablotadinidev@gmail.com">Email</a> ·
-  <a href="https://github.com/Pasblinn?tab=repositories">Repositories</a>
+  <a href="mailto:pablotadinidev@gmail.com"><img src="https://img.shields.io/badge/Email-pablotadinidev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/pablotadinisoto/"><img src="https://img.shields.io/badge/LinkedIn-pablotadinisoto-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  <a href="https://github.com/Pasblinn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
+
+<p align="center">
+  📫 <strong>Open to freelance projects and contract work</strong> · 🇧🇷 Atendo em português e inglês
 </p>
 
 ---
 
-## Live in production
+## 🚀 Live in production
 
 Real systems with real users — three reachable on the open web, one installed on a client's machines.
 
@@ -32,7 +39,7 @@ Most of the code below is private client work. What I can show, I show.
 
 ---
 
-## Selected work
+## 🔍 Selected work
 
 ### AGGOS — multi-tenant CRM
 
@@ -101,7 +108,7 @@ Every run produces an evidence bundle: both HTML captures, both screenshots, the
 
 ---
 
-## Open source
+## 🌱 Open source
 
 **[VPSMAP](https://github.com/Pasblinn/vpsmap)** — Every Docker UI shows you containers. Most of a real server isn't containers. VPSMAP merges Docker, systemd, listening ports and nginx vhosts into one live topology graph — and surfaces the routes that point at nothing. One Python file, standard library only, no agent and no database.
 
@@ -109,7 +116,8 @@ Every run produces an evidence bundle: both HTML captures, both screenshots, the
 
 ---
 
-## Also built
+<details>
+<summary><h2>🛠️ Also built</h2></summary>
 
 | Project | Notable engineering |
 |---|---|
@@ -121,9 +129,11 @@ Every run produces an evidence bundle: both HTML captures, both screenshots, the
 | **Stride** | Flutter + Express + TypeORM activity tracker with live GPS route drawing and JWT refresh persistence · UTFPR, Mobile Devices |
 | **MedCloud / ERPMAXIPROD** | Company technical challenges — React + Node + Postgres + Redis, and a .NET 8 / C# expense system |
 
+</details>
+
 ---
 
-## How I work
+## 🧭 How I work
 
 - **Migrations are the schema.** Numbered SQL files committed to the repo — never a console click.
 - **Tests exercise the real thing.** Playwright drives the built app, not a mock; the AI service is scored against fixtures with a written rubric.
@@ -133,22 +143,22 @@ Every run produces an evidence bundle: both HTML captures, both screenshots, the
 
 ---
 
-## Stack
+## 🧰 Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript · Python · Dart · Java · C# · SQL · Bash |
-| **Frontend** | React · Next.js (App Router) · Angular (signals) · Flutter · Tailwind · shadcn/ui |
-| **Backend** | NestJS · FastAPI · Express · Prisma · SQLAlchemy · TypeORM |
-| **Data** | PostgreSQL · Supabase (RLS, Edge Functions, Realtime) · Redis · MinIO · PGlite |
-| **Infra** | Docker & Compose · GitHub Actions · GHCR · nginx · blue-green deploys on VPS · Vercel |
-| **Desktop** | Electron · electron-builder / NSIS · auto-update · Sentry |
-| **Testing** | Vitest · Playwright · Pytest · Testing Library |
-| **AI** | OpenAI & Anthropic APIs · RAG · prompt guardrails · offline eval harnesses |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,dart,react,nextjs,angular,flutter,electron&perLine=8" alt="TypeScript, Python, Dart, React, Next.js, Angular, Flutter, Electron" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,postgres,supabase,redis,docker,nginx,githubactions&perLine=8" alt="NestJS, FastAPI, PostgreSQL, Supabase, Redis, Docker, nginx, GitHub Actions" />
+</p>
+
+<p align="center">
+  Also fluent in: Prisma · SQLAlchemy · TypeORM · Tailwind · Vitest · Playwright · Pytest ·<br />
+  Supabase RLS &amp; Edge Functions · blue-green deploys on VPS · OpenAI &amp; Anthropic APIs · RAG · offline eval harnesses
+</p>
 
 ---
 
-## Education
+## 🎓 Education
 
 **Technology in Systems Analysis and Development**
 Universidade Tecnológica Federal do Paraná (UTFPR) — Ponta Grossa
@@ -156,6 +166,13 @@ Universidade Tecnológica Federal do Paraná (UTFPR) — Ponta Grossa
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablotadinisoto/">LinkedIn</a> ·
-  <a href="mailto:pablotadinidev@gmail.com">pablotadinidev@gmail.com</a>
+  📫 <a href="mailto:pablotadinidev@gmail.com">pablotadinidev@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/pablotadinisoto/">LinkedIn</a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pasblinn/Pasblinn/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Pasblinn/Pasblinn/output/github-snake.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3178C6,100:0EA5E9&section=footer" width="100%" alt="" />
