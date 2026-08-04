@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Pasblinn
           outputs: |
-            dist/github-snake.svg?palette=github-light
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#8957e5&color_dots=#9be9a8,#40c463,#30a14e,#216e39,#0d4429
+            dist/github-snake-dark.svg?color_snake=#a371f7&color_dots=#9be9a8,#39d353,#26a641,#006d32,#0e4429
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
